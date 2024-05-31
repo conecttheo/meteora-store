@@ -8,7 +8,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Meteora**
 | :label: Tecnologias | Bootstrap
-| :rocket: URL         | [https://conecttheo.github.io/cafeteria-serenatto/](https://conecttheo.github.io/meteora-store/)
+| :rocket: URL         | https://conecttheo.github.io/meteora-store/
 
 <h3>PÁGINA INICIAL<h3/>
 
